@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "http://blog.strayphotography.com/"
 languageCode = "en-us"
 title = "Stray Photography Blog"
 theme = "hugo-theme-attila"
