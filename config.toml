@@ -1,0 +1,10 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Stray Photography Blog"
+theme = "hugo-theme-attila"
+[params]
+  cover = "image.jpg" # Large cover image.
+  logo = "avatar.png" # Small logo shown opposite the menu toggle.
+  navigation = true # Display the menu toggle.
+  twitter = "username" # Add a menu link to this Twitter handle.
+  facebook = "username" # Add a menu link to this Facebook page.
