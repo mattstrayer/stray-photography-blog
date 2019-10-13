@@ -4,8 +4,8 @@ title = "Stray Photography Blog"
 theme = "hugo-theme-attila"
 publishDir = "docs"
 [params]
-  cover = "image.jpg" # Large cover image.
-  logo = "avatar.png" # Small logo shown opposite the menu toggle.
+  cover = "images/bg.jpg" # Large cover image.
+  logo = "/images/logo.png" # Small logo shown opposite the menu toggle.
   navigation = true # Display the menu toggle.
-  twitter = "username" # Add a menu link to this Twitter handle.
-  facebook = "username" # Add a menu link to this Facebook page.
+  twitter = "matt_strayer" # Add a menu link to this Twitter handle.
+  instagram = "matt_strayer" # Add a menu link to this Instagram page.
