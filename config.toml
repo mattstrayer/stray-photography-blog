@@ -2,6 +2,7 @@ baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Stray Photography Blog"
 theme = "hugo-theme-attila"
+publishDir = "docs"
 [params]
   cover = "image.jpg" # Large cover image.
   logo = "avatar.png" # Small logo shown opposite the menu toggle.
