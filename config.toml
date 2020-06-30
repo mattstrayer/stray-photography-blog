@@ -1,7 +1,7 @@
 baseURL = "https://blog.strayphotography.com/"
 languageCode = "en-us"
 title = "Stray Photography Blog"
-theme = "hugo-theme-attila"
+theme = "mediumish-gohugo-theme"
 publishDir = "docs"
 [params]
   cover = "images/bg.jpg" # Large cover image.
