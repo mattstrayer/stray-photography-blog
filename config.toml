@@ -9,3 +9,10 @@ publishDir = "docs"
   navigation = true # Display the menu toggle.
   twitter = "matt_strayer" # Add a menu link to this Twitter handle.
   instagram = "matt_strayer" # Add a menu link to this Instagram page.
+  google_fonts = [
+    ["Roboto Slab", "400, 700"],
+    ["Raleway", "400, 400i, 700, 700i"]
+  ]
+
+  heading_font = "Roboto Slab"
+  body_font = "Raleway"

@@ -12,8 +12,7 @@ draft: true
 
 In 1957, my grandpa, Paul Riedel, started his 35 year career as a photographer for NASA. The man took a very intentional and methodical approach to life, which bled into his work behind the camera lens. I can remember family gatherings where we’d all spend hours posing for Paul, as he dialed-in on his perfect shot. That was the reality of being the consummate photographer, something I didn’t appreciate then and have only begun to understand now. In his day, even for those simple shots, he had to do a lot more than setting his camera to _auto_ and firing away. He had to command the perfect picture out of his surroundings and equipment… and find out later in the dark room if he succeeded or not. It took time, patience, and skill to put together the perfect shot.
 
-![NASA/Paul Riedel/Al Lukas](/images/nasa.jpeg)
-NASA/Paul Riedel/Al Lukas
+{{< img nasa.jpg "NASA/Paul Riedel/Al Lukas" >}}
 
 Today, just like the astronauts he brushed shoulders with, I begin my journey into _the unknown_  — albeit a far less dangerous one. I’m armed with a better computer in my Canon than his comrades had on the moon. Couple that sweet tech with some Paul-genes (that hopefully made their way down to me), and Stray Photography might just exit the stratosphere. 🚀
 
