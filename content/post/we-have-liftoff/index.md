@@ -1,14 +1,12 @@
----
-title: We Have Liftoff
-description: >-
-  In 1957, my grandpa, Paul Riedel, started his 35 year career as a photographer
-  for NASA. The man took a very intentional and methodical…
-date: '2018-10-26T17:39:03.691Z'
-categories: []
-keywords: []
-slug: we-have-liftoff
-draft: true
----
++++
+categories = ["launch"]
+date = "2018-10-26T17:39:03.691Z"
+description = "In 1957, my grandpa, Paul Riedel, started his 35 year career as a photographer for NASA. The man took a very intentional and methodical…"
+keywords = ["liftoff", "stray photography", "stray", "nasa", "photography"]
+slug = "we-have-liftoff"
+title = "We Have Liftoff"
+authors = ["Matt Strayer"]
++++
 
 In 1957, my grandpa, Paul Riedel, started his 35 year career as a photographer for NASA. The man took a very intentional and methodical approach to life, which bled into his work behind the camera lens. I can remember family gatherings where we’d all spend hours posing for Paul, as he dialed-in on his perfect shot. That was the reality of being the consummate photographer, something I didn’t appreciate then and have only begun to understand now. In his day, even for those simple shots, he had to do a lot more than setting his camera to _auto_ and firing away. He had to command the perfect picture out of his surroundings and equipment… and find out later in the dark room if he succeeded or not. It took time, patience, and skill to put together the perfect shot.
 

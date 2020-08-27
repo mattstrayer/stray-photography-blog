@@ -1,13 +1,11 @@
 baseURL = "https://blog.strayphotography.com"
 languageCode = "en-us"
 title = "Stray Photography Blog"
-theme = "mediumish-gohugo-theme"
+theme = "hugo-theme-novela"
 summaryLength = 34
 copyright = "Stray Photography"
 
 [params]
-  cover = "images/bg.jpg" # Large cover image.
-  logo = "/images/logo.png" # Small logo shown opposite the menu toggle.
   google_fonts = [
     ["Roboto Slab", "400, 700"],
     ["Raleway", "400, 400i, 700, 700i"]
@@ -15,20 +13,13 @@ copyright = "Stray Photography"
   heading_font = "Roboto Slab"
   body_font = "Raleway"
 
-[params.author]
-  name = "Matt Strayer"
-  thumbnail = ""
-  description = "Man behind the lens"
+pygmentsstyle = "monokai"
+paginate = 6.0
 
-[params.index]
-  picture = "/images/author.jpg"
-  title = "John Doe"
-  subtitle = "I'm a unique placeholder. Working here and there!"
-  mdtext = '''Currently trying to get this blog running, still don't know what the blog will be about!\
-**This textblock is a demonstration of the mdtext-param.**\
-### This is a markdown heading'''
-  alertbar = true
+[social]
+twitter = "matt_strayer"
+instagram = "matt_strayer"
 
-[params.social]
-  twitter = "matt_strayer" # Add a menu link to this Twitter handle.
-  instagram = "matt_strayer" # Add a menu link to this Instagram page.
+
+[taxonomies]
+author = "authors"
